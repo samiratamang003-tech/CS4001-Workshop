@@ -1,2 +1,2 @@
 # CS4001-Workshop
-foldername/Directory.txt
+directory/week-03.txt
